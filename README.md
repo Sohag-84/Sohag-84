@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/C4D16AQGlF36VcMf2tw/profile-displaybackgroundimage-shrink_200_800/0/1644457085730?e=1649894400&v=beta&t=tmx4yHQItf7xtzglm2YsBxXYz21FMwhri825oX_QT0g)
+!(https://media-exp1.licdn.com/dms/image/C4D16AQGlF36VcMf2tw/profile-displaybackgroundimage-shrink_200_800/0/1644457085730?e=1649894400&v=beta&t=tmx4yHQItf7xtzglm2YsBxXYz21FMwhri825oX_QT0g)
 
 ### Hi there 👋, I'm Injamul Haq Sohag
 #### Android and Flutter developer
