@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Injamul Haq Sohag
 #### Android and Flutter developer
 
-I'm Injamul Haq Sohag. I love to learn new skils. Coding is my passion.I always try to write fresh code.
+I'm Injamul Haq Sohag. I love to learn new skills. Coding is my passion. I always try to write fresh code.
 
 Skills: Flutter/Dart/Java/Android
 
