@@ -7,7 +7,7 @@ I'm Injamul Haq Sohag. I love to learn new skills. Coding is my passion. I alway
 
 Skills: Flutter/Dart/Java/Android
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 Currently, I am working as a Flutter developer.
 - 💬 Ask me about Mobile application development 
 - 📫 How to reach me: WhatsApp -01316255373 
 
